@@ -1,7 +1,5 @@
 # Cisco Routing
 
-Implementasi dan konfigurasi **routing statis (static routing)** menggunakan Cisco Packet Tracer.
-
 | | |
 |---|---|
 | **Mata Kuliah** | Komunikasi dan Jaringan Komputer |
